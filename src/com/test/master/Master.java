@@ -7,6 +7,11 @@ public class Master {
 		System.out.println("branch!!!test");
 		System.out.println("branch!!! master!!!! test2");
 		System.out.println("branch!!! master!!!! test3");
+		
+		//test2
+		System.out.println("branch 2!!!!!!!!!!!!!");
+		System.out.println("branch 2!!!!!!!!!!!!!");
+		System.out.println("branch 2!!!!!!!!!!!!!");
 	}
 
 }
